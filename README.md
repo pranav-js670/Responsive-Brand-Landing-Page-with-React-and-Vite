@@ -21,23 +21,6 @@ This project is a modern, responsive landing page designed for a brand, develope
 ### Prerequisites
 - Node.js installed on your local machine
 
-## Project Structure
-responsive-brand-landing-page/
-├── public/
-│   ├── images/
-│   │   ├── amazon.png
-│   │   ├── brand_logo.png
-│   │   ├── flipkart.png
-│   │   └── hero-image.png
-├── src/
-│   ├── components/
-│   │   ├── Hero.jsx
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   ├── main.jsx
-├── package.json
-├── vite.config.js
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
