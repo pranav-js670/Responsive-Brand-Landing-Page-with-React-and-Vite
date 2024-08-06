@@ -1,29 +1,8 @@
-# Responsive-Brand-Landing-Page-with-React-and-Vite
+# React + Vite
 
-## Overview
-This project is a modern, responsive landing page designed for a brand, developed using React and Vite. The objective is to create a visually appealing and user-friendly interface that effectively showcases the brand identity and engages users. The page includes a hero section, a navigation menu, interactive buttons, and responsive design elements.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
-- Clean and modern user interface
-- Hero section with a brand slogan and call-to-action buttons
-- Navigation menu with links to different sections
-- Integration of brand logos and images
-- Smooth navigation and user interactions
+Currently, two official plugins are available:
 
-## Technologies Used
-- **React**: A JavaScript library for building user interfaces
-- **Vite**: A fast build tool for modern web projects
-- **CSS**: Styling the components and ensuring responsive design
-- **Google Fonts**: For enhanced typography
-
-## Getting Started
-
-### Prerequisites
-- Node.js installed on your local machine
-
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
